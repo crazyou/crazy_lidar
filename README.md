@@ -1,0 +1,3 @@
+roslaunch crazylidar_node view_crazylidar.launch
+
+roslaunch crazylidar_node crazylidar.launch
